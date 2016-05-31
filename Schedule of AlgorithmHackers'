@@ -1,4 +1,217 @@
-ISCAS14 - AlgorithmHackers - 1st week
+###################################################################
+ISCAS14 - AlgorithmHackers - week12
+Tue Mar 22 11:24:15 CST 2016
+1. 陈晓旭
+Add and Search Word - Data structure design
+https://leetcode.com/problems/add-and-search-word-data-structure-design/
+2. 罗松磊
+Wiggle Sort II
+https://leetcode.com/problems/wiggle-sort-ii/
+3. 郑莹莹
+Range Sum Query - Mutable
+https://leetcode.com/problems/range-sum-query-mutable/
+4. 邬登峰
+LRU Cache
+https://leetcode.com/problems/lru-cache/
+5. 王子勇
+Maximum Gap
+https://leetcode.com/problems/maximum-gap/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week11
+Wed Mar 16 13:57:27 CST 2016
+1. 梁建华
+Reverse Nodes in k-Group
+https://leetcode.com/problems/reverse-nodes-in-k-group/
+2. 倪嘉志
+The Skyline Problem
+https://leetcode.com/problems/the-skyline-problem/
+3. 段世凯
+Palindrome Pairs
+https://leetcode.com/problems/palindrome-pairs/
+4. 徐培兴
+Course Schedule II
+https://leetcode.com/problems/course-schedule-ii/
+5. 崔光范
+Clone Graph
+https://leetcode.com/problems/clone-graph/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week10
+Tue Mar  8 19:32:29 CST 2016
+1. 倪嘉志
+Maximal Square
+https://leetcode.com/problems/maximal-square/
+2. 罗松磊
+Single Number II
+https://leetcode.com/problems/single-number-ii/
+3. 燕东
+Decode Ways
+https://leetcode.com/problems/decode-ways/
+4. 佘艺
+Word Break II
+https://leetcode.com/problems/word-break-ii/
+5. 刘财政
+Create Maximum Number
+https://leetcode.com/problems/create-maximum-number/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week9
+Mon Feb 29 19:11:20 CST 2016
+1. 郑莹莹
+Count Primes
+https://leetcode.com/problems/count-primes/
+2. 徐培兴
+Basic Calculator
+https://leetcode.com/problems/basic-calculator/
+3. 邬登峰
+Bulb Switcher
+https://leetcode.com/problems/bulb-switcher/
+4. 王子勇
+Multiply Strings
+https://leetcode.com/problems/multiply-strings/
+5. 唐弘胤
+Fraction to Recurring Decimal
+https://leetcode.com/problems/fraction-to-recurring-decimal/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week8
+Mon Jan 18 21:01:54 CST 2016
+1. 崔艳玲
+Distinct Subsequences
+https://leetcode.com/problems/distinct-subsequences/
+2. 唐弘胤
+House Robber
+https://leetcode.com/problems/house-robber/
+3. 燕东
+Ugly Number II
+https://leetcode.com/problems/ugly-number-ii/
+4. 罗松磊
+Unique Paths II
+https://leetcode.com/problems/unique-paths-ii/
+5. 倪嘉志
+Unique Binary Search Trees
+https://leetcode.com/problems/unique-binary-search-trees/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week7
+Mon Jan 11 21:18:42 CST 2016
+1. 陈晓旭
+Permutations II
+https://leetcode.com/problems/permutations-ii/
+2. 徐培兴
+Count of Range Sum
+https://leetcode.com/problems/count-of-range-sum/
+3. 郑盈盈
+Jump Game II
+https://leetcode.com/problems/jump-game-ii/
+4. 邬登峰
+Best Time to Buy and Sell Stock III
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+5. 王子勇 
+Shortest Palindrome
+https://leetcode.com/problems/shortest-palindrome/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week6
+Mon Jan  4 21:25:12 CST 2016
+1.梁建华 
+Binary Tree Zigzag Level Order Traversal
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+2.姬强
+Convert Sorted List to Binary Search Tree
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+3.段世凯 
+Populating Next Right Pointers in Each Node II
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+4.崔艳玲
+Construct Binary Tree from Preorder and Inorder Traversal
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+5.崔光范 
+Unique Binary Search Trees II
+https://leetcode.com/problems/unique-binary-search-trees-ii/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week5
+Mon Dec 28 21:08:35 CST 2015
+1. 佘艺
+Restore IP Addresses
+https://leetcode.com/problems/restore-ip-addresses/
+2. 倪嘉志
+Subsets II
+https://leetcode.com/problems/subsets-ii/
+3. 罗松磊
+N-Queens II
+https://leetcode.com/problems/n-queens-ii/
+4. 刘财政
+Word Ladder
+https://leetcode.com/problems/word-ladder/
+5. 燕东
+Surrounded Regions
+https://leetcode.com/problems/surrounded-regions/
+6. 燕东
+Sort Colors
+https://leetcode.com/problems/sort-colors/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week4
+Mon Dec 21 21:09:02 CST 2015
+1. 郑莹莹
+Sqrt(x)
+https://leetcode.com/problems/sqrtx/
+2. 徐培兴
+Search for a Range
+https://leetcode.com/problems/search-for-a-range/
+3. 邬登峰
+Pow(x, n)
+https://leetcode.com/problems/powx-n/
+4. 王子勇
+Merge k Sorted Lists
+https://leetcode.com/problems/merge-k-sorted-lists/
+5. 唐弘胤
+Sort List
+https://leetcode.com/problems/sort-list/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week3
+Mon Dec 14 21:34:12 CST 2015
+1. 段世凯
+Simplify Path
+https://leetcode.com/problems/simplify-path/
+2. 崔艳玲
+Regular Expression Matching
+https://leetcode.com/problems/regular-expression-matching/
+3. 崔光范
+Implement strStr()
+https://leetcode.com/problems/implement-strstr/
+4. 陈晓旭
+Valid Palindrome
+https://leetcode.com/problems/valid-palindrome/
+5. 佘艺
+String to Integer (atoi)
+https://leetcode.com/problems/string-to-integer-atoi/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week2
+Mon Dec  7 21:22:04 CST 2015
+1. 倪嘉志
+Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2. 罗松磊
+Max Points on a Line
+https://leetcode.com/problems/max-points-on-a-line/
+3. 刘财政
+Maximal Rectangle
+https://leetcode.com/problems/maximal-rectangle/
+4. 姬强
+Sudoku Solver
+https://leetcode.com/problems/sudoku-solver/
+5. 梁建华
+Repeated DNA Sequences
+https://leetcode.com/problems/repeated-dna-sequences/
+
+###################################################################
+ISCAS14 - AlgorithmHackers - week1
 Mon Nov 30 20:09:59 CST 2015
 1. 郑莹莹
 Remove Duplicates from Sorted Array II
